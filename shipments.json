@@ -1,0 +1,17 @@
+{
+  "report_date": "2026-09-15",
+  "shipments": [
+    {
+      "shipment_id": "SHIP-104",
+      "state": "delayed",
+      "latest_event": "Carrier reported a weather hold",
+      "exception_note": "Review delayed delivery with the carrier"
+    },
+    {
+      "shipment_id": "SHIP-105",
+      "state": "delivered",
+      "latest_event": "Delivered at 16:20",
+      "proof_of_delivery": {"document_name": "SHIP-105-receipt.pdf", "received": false}
+    }
+  ]
+}
